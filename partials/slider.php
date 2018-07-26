@@ -4,11 +4,11 @@
       <div class="carousel-inner">
         <!-- Item 1 -->
         <div class="item active">
-          <img src="/genetic/assets/images/back1.jpg" alt="banner">          
+          <img src="assets/images/back1.jpg" alt="banner">          
             <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-            		<img src="/genetic/assets/images/logobig.png" class="animated bounceInUp" alt="logo">
+            		<img src="assets/images/logobig.png" class="animated bounceInUp" alt="logo">
               		<h1 class="animated bounceInLeft">Creative digital agency</h1>
               		<p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p>
               		<div class="scroll animated fadeInUp"><a href="#works" class="btn btn-default"><i class="fa fa-flask"></i>  View Project</a> <a href="#contact" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> Start Your Project</a></div>
@@ -20,11 +20,11 @@
 
         <!-- Item 1 -->
         <div class="item">
-          <img src="/genetic/assets/images/back2.jpg" alt="banner">          
+          <img src="assets/images/back2.jpg" alt="banner">          
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <img src="/genetic/assets/images/logobig.png" class="animated bounceInUp" alt="logo">
+                <img src="assets/images/logobig.png" class="animated bounceInUp" alt="logo">
                   <h1 class="animated bounceInLeft">Creative digital agency</h1>
                   <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p>
                   <div class="scroll animated fadeInUp"><a href="#works" class="btn btn-default"><i class="fa fa-flask"></i>  View Project</a> <a href="#contact" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> Start Your Project</a></div>
@@ -36,11 +36,11 @@
 
         <!-- Item 1 -->
         <div class="item">
-          <img src="/genetic/assets/images/back3.jpg" alt="banner">          
+          <img src="assets/images/back3.jpg" alt="banner">          
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <img src="/genetic/assets/images/logobig.png" class="animated bounceInUp" alt="logo">
+                <img src="assets/images/logobig.png" class="animated bounceInUp" alt="logo">
                   <h1 class="animated bounceInLeft">Creative digital agency</h1>
                   <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p>
                   <div class="scroll animated fadeInUp"><a href="#works" class="btn btn-default"><i class="fa fa-flask"></i>  View Project</a> <a href="#contact" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> Start Your Project</a></div>
@@ -52,11 +52,11 @@
 
         <!-- Item 1 -->
         <div class="item">
-          <img src="/genetic/assets/images/back4.jpg" alt="banner">          
+          <img src="assets/images/back4.jpg" alt="banner">          
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <img src="/genetic/assets/images/logobig.png" class="animated bounceInUp" alt="logo">
+                <img src="assets/images/logobig.png" class="animated bounceInUp" alt="logo">
                   <h1 class="animated bounceInLeft">Creative digital agency</h1>
                   <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p>
                   <div class="scroll animated fadeInUp"><a href="#works" class="btn btn-default"><i class="fa fa-flask"></i>  View Project</a> <a href="#contact" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> Start Your Project</a></div>

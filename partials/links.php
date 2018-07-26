@@ -10,18 +10,18 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 <!-- bootstrap -->
-<link rel="stylesheet" href="/genetic/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 
 <!-- animate.css -->
-<link rel="stylesheet" href="/genetic/assets/css/animate.css" />
-<link rel="stylesheet" href="/genetic/assets/css/set.css" />
+<link rel="stylesheet" href="assets/css/animate.css" />
+<link rel="stylesheet" href="assets/css/set.css" />
 
 <!-- gallery -->
-<link rel="stylesheet" href="/genetic/assets/css/blueimp-gallery.min.css">
+<link rel="stylesheet" href="assets/css/blueimp-gallery.min.css">
 
 <!-- favicon -->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
 
-<link rel="stylesheet" href="/genetic/assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css">
